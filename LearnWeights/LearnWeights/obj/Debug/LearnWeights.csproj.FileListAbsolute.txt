@@ -1,0 +1,30 @@
+c:\users\rashmina\documents\visual studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\LearnWeights.exe
+c:\users\rashmina\documents\visual studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\LearnWeights.pdb
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Npgsql.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.MachineLearning.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.Statistics.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.dll.config
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\LearnWeights.exe.config
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.Math.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Genetic.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Math.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Neuro.dll
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.MachineLearning.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.Math.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Accord.Statistics.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Genetic.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Math.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\AForge.Neuro.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\bin\Debug\Npgsql.xml
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\obj\Debug\LearnWeights.resource.resources
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\obj\Debug\LearnWeights.csproj.GenerateResource.Cache
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\obj\Debug\LearnWeights.exe
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\obj\Debug\LearnWeights.pdb
+C:\Users\rashmina\Documents\Visual Studio 2013\Projects\LearnWeights\LearnWeights\obj\Debug\LearnWeights.csprojResolveAssemblyReference.cache
+C:\Users\rashmina\Documents\strabo-learning-ocr-transformation\LearnWeights\LearnWeights\bin\Debug\LearnWeights.exe.config
+C:\Users\rashmina\Documents\strabo-learning-ocr-transformation\LearnWeights\LearnWeights\obj\Debug\LearnWeights.exe
+C:\Users\rashmina\Documents\strabo-learning-ocr-transformation\LearnWeights\LearnWeights\obj\Debug\LearnWeights.pdb
