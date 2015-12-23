@@ -3,7 +3,7 @@ This module contains all the steps needed to perform spelling correction on OCR 
 
 ## Steps for Spelling Correction
 1. Run LearnWeights.sln
-  This .NET solution contains all the database operations to generate training data. This reads data from scan6i1970 table and generates both alignment data and training data. Feature vector includes previous charatcer, current character and next character of OCR. Label is the current character in ground truth.
+  * This .NET solution contains all the database operations to generate training data. This reads data from scan6i1970 table and generates both alignment data and training data. Feature vector includes previous charatcer, current character and next character of OCR. Label is the current character in ground truth.
   Table Names: labaledData, SequenceData
   
 2. Run python script for training
