@@ -12,8 +12,8 @@ This module contains all the steps needed to perform spelling correction on OCR 
   * Postgres odbc support is available for python 3.4 and not for python 3.5. Hence activate py34 virtual environment to read data from postgres tables.
   * Gradient Boosting Classifier is the training algorithm used. The script will generate model files and vectolrizing files for features and label which can be utilized for spelling correction.All data files(model and vectorizer) can be seen in the folder gbc_model.
   
-3. Generate Jaccard candidtes and OCR from Strabo
-  * Only file changed is CheckDictionaryElasticSearch.cs. Function name is writeAlignment.
+3. Generate Jaccard candidates and OCR from Strabo
+  * Only files modified/created are CheckDictionaryElasticSearch.cs (writeAlignment method) and FindNWAlignment.cs. 
   * Writes data into an Excel file. Change file names as appropriate.
   
 4. Run python script for classification
