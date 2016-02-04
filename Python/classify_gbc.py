@@ -9,7 +9,7 @@ def gbc(prevChar, currentChar, nextChar, label):
     model = joblib.load('C:\\Users\\rashmina\\Documents\\LearnWeights\\gbc_model\\gbc_model.pkl')
     vec = joblib.load('C:\\Users\\rashmina\\Documents\\LearnWeights\\gbc_model\\vectorizer.pkl')
     lb = joblib.load('C:\\Users\\rashmina\\Documents\\LearnWeights\\gbc_model\\binarizer.pkl')
-    X = numpy.array([[prevChar, currentChar]])
+    X = numpy.array([[prevChar, currentChar, nextChar]])
     feature_dict = [dict(enumerate(x)) for x in X.tolist()]
     vectorized_X = vec.transform(feature_dict).toarray()
     binarized_label = lb.transform(numpy.array([[label]]))
@@ -23,8 +23,8 @@ def find_score():
         reader = csv.reader(fp)
         for row in reader:
             ##vals = row.split(',')
-            truth = row[2].lower()
-            dict = row[3].lower()
+            truth = row[0].lower()
+            dict = row[1].lower()
             sequence(truth, dict)
 
 	
@@ -42,8 +42,7 @@ def sequence(truth, dict):
             print(list_truth)
             print(list_dict)
             return
-
-	label = '"' + t + '"'
+        label = '"' + t + '"'
         currentChar = '"' + d + '"'
 
         if j==0:
